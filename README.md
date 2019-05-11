@@ -1,2 +1,2 @@
-# non_transferabl_tokens
-json object of non transferable tokens
+# Non-Transferable Tokens
+This is a simple json object of tokens that fail to be transfered for various reason.
