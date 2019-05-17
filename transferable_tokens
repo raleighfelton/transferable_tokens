@@ -1,8 +1,240 @@
 {
   "tokens": [
     {
+      "contract": "alibabapoole",
+      "currency": "EPT"
+    },
+    {
+      "contract": "betdicetoken",
+      "currency": "DICE"
+    },
+    {
+      "contract": "betkingtoken",
+      "currency": "BKT"
+    },
+    {
+      "contract": "bgbgbgbgbgbg",
+      "currency": "BG"
+    },
+    {
+      "contract": "billionairet",
+      "currency": "XBL"
+    },
+    {
+      "contract": "biteyebiteye",
+      "currency": "BITI"
+    },
+    {
+      "contract": "challengedac",
+      "currency": "CHL"
+    },
+    {
+      "contract": "dbetminepool",
+      "currency": "DBET"
+    },
+    {
+      "contract": "emanateoneos",
+      "currency": "EMT"
+    },
+    {
+      "contract": "endlesstoken",
+      "currency": "ET"
+    },
+    {
       "contract": "eosadddddddd",
       "currency": "ADD"
+    },
+    {
+      "contract": "eosbettokens",
+      "currency": "BTC"
+    },
+    {
+      "contract": "eosbettokens",
+      "currency": "LTC"
+    },
+     {
+      "contract": "eosbtextoken",
+      "currency": "BT"
+    },
+     {
+      "contract": "eoscafekorea",
+      "currency": "DAB"
+    },
+    {
+      "contract": "eosdactokens",
+      "currency": "EOSDAC"
+    },
+    {
+      "contract": "eosggshost11",
+      "currency": "GGS"
+    },
+    {
+      "contract": "eoshashcoins",
+      "currency": "HASH"
+    },
+    {
+      "contract": "eosioatidium",
+      "currency": "ATD"
+    },
+    {
+      "contract": "eosiomeetone",
+      "currency": "MEETONE"
+    },
+     {
+      "contract": "eosiotokener",
+      "currency": "EGT"
+    },
+    {
+      "contract": "eosiotptoken",
+      "currency": "TPT"
+    },
+    {
+      "contract": "eosjackscoin",
+      "currency": "JKR"
+    },
+    {
+      "contract": "eoslucktoken",
+      "currency": "LUCKY"
+    },
+    {
+      "contract": "eosnowbpower",
+      "currency": "ANTE"
+    },
+    {
+      "contract": "eospokercoin",
+      "currency": "POKER"
+    },
+    {
+      "contract": "eostgctoken1",
+      "currency": "TGC"
+    },
+    {
+      "contract": "eosvegascoin",
+      "currency": "MEV"
+    },
+    {
+      "contract": "epraofficial",
+      "currency": "EPRA"
+    },
+    {
+      "contract": "ethsidechain",
+      "currency": "EETH"
+    },
+    {
+      "contract": "fastecoadmin",
+      "currency": "FAST"
+    },
+    {
+      "contract": "fight22death",
+      "currency": "NFT"
+    },
+    {
+      "contract": "fishjoytoken",
+      "currency": "FISH"
+    },
+    {
+      "contract": "funcitytoken",
+      "currency": "CITY"
+    },
+    {
+      "contract": "gamebettoken",
+      "currency": "GBT"
+    },
+    {
+      "contract": "gqydooigenes",
+      "currency": "LZB"
+    },
+    {
+      "contract": "hirevibeshvt",
+      "currency": "HVT"
+    },
+    {
+      "contract": "therealkarma",
+      "currency": "KARMA"
+    },
+    {
+      "contract": "linzongsheng",
+      "currency": "TEA"
+    },
+    {
+      "contract": "luckbettoken",
+      "currency": "LT"
+    },
+    {
+      "contract": "metpacktoken",
+      "currency": "MPT"
+    },
+    {
+      "contract": "mobileosapps",
+      "currency": "MEOS"
+    },
+    {
+      "contract": "nebulatokenn",
+      "currency": "NEB"
+    },
+    {
+      "contract": "novusphereio",
+      "currency": "ATMOS"
+    },
+    {
+      "contract": "okkkkkkkkkkk",
+      "currency": "GO"
+    },
+    {
+      "contract": "patreostoken",
+      "currency": "PATR"
+    },
+    {
+      "contract": "pokereotoken",
+      "currency": "PKE"
+    },
+    {
+      "contract": "pokerktoken1",
+      "currency": "KING"
+    },
+     {
+      "contract": "publytoken11",
+      "currency": "PUB"
+    },
+    {
+      "contract": "sensegenesis",
+      "currency": "SENSE"
+    },
+    {
+      "contract": "share.x",
+      "currency": "SHARE"
+    },
+    {
+      "contract": "taketooktook",
+      "currency": "TOOK"
+    },
+    {
+      "contract": "tgonstakeeos",
+      "currency": "TGE"
+    },
+    {
+      "contract": "thebeantoken",
+      "currency": "BEAN"
+    },
+    {
+      "contract": "theforcegrou",
+      "currency": "EFOR"
+    },
+    {
+      "contract": "thepeostoken",
+      "currency": "PEOS"
+    },
+    {
+      "contract": "tulip.vr",
+      "currency": "TULIP"
+    },
+    {
+      "contract": "zkstokensr4u",
+      "currency": "ZKS"
+    },
+    {
+      "contract": "zosdiscounts",
+      "currency": "ZOS"
     }
   ]
 }
